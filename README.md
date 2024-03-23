@@ -1,7 +1,7 @@
 ## Quantitative Analysis using Machine Learning 
 
-#### As a Data and Statistics enthusiast, I apply all the theoretical knowledge I've gathered to analyze stock market data and extract meaningful patterns and forecasts.
-#### So far, I have explored Unsupervised Learning for Algorithmic trading. Using volatility analysis, unsupervised learning can cluster similar stocks for anomaly detection and feature optimization. I have utilized the following techniques to bring new features and technical indicators to the data:
+#### As a Data and Statistics enthusiast, I apply all the theoretical knowledge I've gathered to analyze stock market data and extract meaningful patterns and forecasts. I mostly play with the S&P Index data and individual Stock price data.
+#### So far, I have explored multiple Supervised and Unsupervised Learning approaches for Algorithmic trading. Using volatility analysis, unsupervised learning can cluster similar stocks for anomaly detection and feature optimization. I have utilized the following techniques to bring new features and technical indicators to the data:
 1. Garman-Klass volatility.
 2. Relative Strength Index (RSI).
 3. Bollinger Bands.
